@@ -37,7 +37,7 @@ No Copying: Do not copy code or any other content from your classmates or any ot
 
 
 
-# Vedio:
+# Video:
 
 
 
