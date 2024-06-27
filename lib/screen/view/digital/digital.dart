@@ -528,8 +528,16 @@ class _DigitalClockState extends State<DigitalClock> {
                                     style: TextStyle(
                                         fontSize: 15, color: Colors.white),
                                   ),
-                                  Text("Min : ${e['minute']} : "),
-                                  Text("Sec : ${e['seconds']}"),
+                                  Text(
+                                    "Min : ${e['minute']} : ",
+                                    style: TextStyle(
+                                        fontSize: 15, color: Colors.white),
+                                  ),
+                                  Text(
+                                    "Sec : ${e['seconds']}",
+                                    style: TextStyle(
+                                        fontSize: 15, color: Colors.white),
+                                  ),
                                   SizedBox(
                                     width: w * 0.01,
                                   ),
